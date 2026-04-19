@@ -147,14 +147,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrbazRaihan&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d1a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrbazRaihan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IRBAZ-04&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d1a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRBAZ-04&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IrbazRaihan&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=6e40c9&fire=a855f7&currStreakLabel=a855f7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IRBAZ-04&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=6e40c9&fire=a855f7&currStreakLabel=a855f7" />
 
 </div>
 
@@ -164,7 +164,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IrbazRaihan&theme=discord&no-frame=true&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=IRBAZ-04&theme=discord&no-frame=true&column=6&margin-w=8" />
 
 </div>
 
