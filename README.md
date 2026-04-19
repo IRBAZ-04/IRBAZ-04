@@ -33,13 +33,13 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pmirbazraihan@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/irbazraihan/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEXs%2FXUz7TqWpUVmL9gvxTA%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/IrbazRaihan">
+  <a href="https://github.com/IRBAZ-04">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
