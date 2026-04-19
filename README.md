@@ -48,56 +48,54 @@
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 <table>
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td align="center" width="33%">
 
-**Languages**
+<b>💻 Languages</b><br/><br/> <img src="https://skillicons.dev/icons?i=cpp,js,py&theme=dark" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp,js,py&theme=dark" /></a>
+</td>
 
-    </td>
-    <td valign="top" width="33%">
+<td align="center" width="33%">
 
-**Web & Markup**
+<b>🌐 Web & Markup</b><br/><br/> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" /></a>
+</td>
 
-    </td>
-    <td valign="top" width="33%">
+<td align="center" width="33%">
 
-**Database & Query**
+<b>🗄️ Database & Query</b><br/><br/> <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" /></a>
+</td>
+</tr>
 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td align="center">
 
-**Tools & Platforms**
+<b>🧰 Tools & Platforms</b><br/><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /></a>
+</td>
 
-    </td>
-    <td valign="top" width="33%">
+<td align="center">
 
-**Currently Learning**
+<b>📚 Currently Learning</b><br/><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /></a>
+</td>
 
-    </td>
-    <td valign="top" width="33%">
+<td align="center">
 
-**Exploring**
+<b>🚀 Exploring</b><br/><br/> <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
 
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" /></a>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+</div>
+
 ---
+
 
 ## 🚀 Projects
 
@@ -143,22 +141,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IRBAZ-04&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d1a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRBAZ-04&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IRBAZ-04&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=6e40c9&fire=a855f7&currStreakLabel=a855f7" />
-
-</div>
-
----
 
 ## 🏆 Highlights
 
